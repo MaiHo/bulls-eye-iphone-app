@@ -103,6 +103,8 @@
                     <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                     <size key="freeformSize" width="480" height="320"/>
                     <connections>
+                        <outlet property="roundLabel" destination="vhD-CN-Yev" id="i1l-cE-Wbv"/>
+                        <outlet property="scoreLabel" destination="kiy-Sk-Kjq" id="AIq-8U-e2t"/>
                         <outlet property="slider" destination="ZYj-j0-PkD" id="FMD-Hk-Y56"/>
                         <outlet property="targetLabel" destination="3ut-SZ-nk5" id="8FV-xz-2lY"/>
                     </connections>
